@@ -1,12 +1,12 @@
-tensorflow==2.1.0
-numpy==1.19.5
-pillow==8.2.0
-h5py==3.1.0
-keras==2.0.0
-streamlit==0.82.0
-werkzeug==2.0.1
+tensorflow==2.5.1
 opencv-python
 base64
+numpy==1.15.2
+pillow==8.3.2
+h5py==2.8.0
+keras==2.3.1
+streamlit==0.64.0
+werkzeug==0.15.3
 
 
 
