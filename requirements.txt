@@ -1,6 +1,6 @@
-tensorflow==2.5.1
+tensorflow==1.4.0
 opencv-python
-base64
+pybase64
 numpy==1.15.2
 pillow==8.3.2
 h5py==2.8.0
